@@ -15,4 +15,4 @@ Sherlock Holmes ist eine 1886 vom britischen Schriftsteller Arthur Conan Doyle g
 >Education never ends Watson. 
 >It is a series of lessons, with the greatest for the last.
 
-
+<img src="https://vignette.wikia.nocookie.net/s__/images/8/81/Sherlock_1.jpg/revision/latest/scale-to-width-down/340?cb=20121025201150&path-prefix=sherlockpedia%2Fde"/>
